@@ -266,6 +266,7 @@ header.masthead .intro-text .skills {
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px;
+  cursor: pointer;
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -322,9 +323,9 @@ header.masthead .intro-text .skills {
 }
 
 .portfolio-modal .modal-dialog {
-  max-width: 100%;
+  max-width: 60%;
   min-height: 100%;
-  margin: 0;
+  margin: auto;
   padding: 0;
   text-align: center;
   border: none;
