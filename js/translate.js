@@ -49,27 +49,9 @@ const DICTIONARY = {
         'around_web': {'en': 'Around the Web', 'ge': 'მიპოვეთ ინტერნეტში'},
         'email_me': {'small': true, 'en': 'Email me at', 'ge': 'მომწერეთ ელ-ფოსტაზე '},
         'content_man': {'en': 'Content Manager, Copywriter', 'ge': 'კონტენტ მენეჯერი, ქოფირაითერი'},
-        'nebula_resp': {
-            'small': true,
-            'en': 'Responsible for creating, posting, advertising (using the ads manager) content for social media,\n' +
-                '                  writing copy for web-site and responding to inbox messages.',
-            'ge': 'კონტენტის მოფიქრება და განთავსება სოციალურ მედიაში,\n' +
-                'ვებ-საიტის ქოფირაითინგი,\n' +
-                'ინბოქსში შემოსულ მესიჯებზე პასუხი'
-        },
-        'nebula_date': {
-            'en': 'February 2017 - February 2018',
-            'ge': 'თებერვალი 2017 - თებერვალი 2018',
-            'small': true
-        },
+        
 
         'cpywrt': {'en': 'Copywriter', 'ge': 'ქოფირაითერი'},
-        'bookgeo_descr': {
-            'small': true,
-            'en': 'Writing articles about Georgia in English.\n',
-            'ge': 'სტატიების წერა ინგლისურად საქართველოს სხვადასხვა კუთხეზე.'
-        },
-        'bookgeo_date': {'en': '2017 August - present', 'ge': 'აგვისტო 2017 - დღემდე', 'small': true},
         'languages': {'en': 'Languages', 'ge': 'ენები'},
         'lang_ge': {'en': 'Georgian', 'ge': 'ქართული'},
         'lang_en': {'en': 'English', 'ge': 'ინგლისური'},
@@ -100,19 +82,7 @@ const DICTIONARY = {
         'jour': {'en': 'Journalist', 'ge': 'ჟურნალისტი'},
         'our_express_date': {'en': '2012 September - 2013 June', 'ge': 'სექტემბერი 2012 - ივნისი 2013'},
         'ishare_date': {'en': '2017 January - 2017 February', 'ge': 'იანვარი 2017 - თებერვალი 2017'},
-        'gingers_date': {'en': 'October 2018 - November 2018', 'ge': 'ოქტომბერი 2018 - ნოემბერი 2018'},
-        'gingers_resp': {
-            'en': 'Responsible for managing different social media pages, advertising and making reports.',
-            'ge': 'სხვადასხვა გვერდების მართვა, დარეკლამება და შესაბამისი რეპორტების კეთება',
-            'small': true
-        },
-        'soc_media': {'en': 'Social Media Manager', 'ge': 'სოციალური მედიის მენეჯერი'},
-        'vendoo_date': {'en': 'February 2019 - present', 'ge': 'თებერვალი 2018 - დღემდე'},
-        'vendoo_resp': {
-            'en': '',
-            'ge': '',
-            'small': true
-        }
+        'soc_media': {'en': 'Social Media Manager', 'ge': 'სოციალური მედიის მენეჯერი'}
     }
 ;
 
