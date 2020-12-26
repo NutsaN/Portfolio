@@ -37,7 +37,7 @@ const DICTIONARY = {
         'examples': {'en': 'Exemplary [CTRL+C]s and more magic', 'ge': '[CTRL+C]-ების მაგალითები და სხვა ჯადოქრობები'},
         'about_me': {
             'small': true,
-            'en': 'My experience with writing in the digital realm starts in 2011 when having a WordPress blog for your every shower thought was considered a personality trait. Since then I have worked as a social media manager for small startups and big companies, however, coming up with clever wordplay or dad jokes are my specialty.',
+            'en': 'My experience with writing in the digital realm starts in 2011 when having a WordPress blog for your every shower thought was considered a personality trait. Since then I have worked as a social media manager for small startups and big companies, however, coming up with a clever wordplay or dad jokes are my specialty.',
             'ge': 'ჩემი და ციფრული სამყაროს ურთიერთობა 2011 წელს დაიწყო, როცა წვრილმანი ამბების გაზიარების ადგილი ვორდპრესის ბლოგები იყო. მას შემდეგ ბევრგან მიმუშავია სოციალურ მედიაში, როგორც პატარა სტარტაპებისთვის, ასევე - დიდი კომპანიებისთვის, თუმცა, ჩემს კალამს კალამბურების ამბებს არაფერი ურჩევნია.'
         },
         'methodology': {'en': 'Programming Methodology', 'ge': 'პროგრამირების მეთოდოლოგა', 'small': true},
