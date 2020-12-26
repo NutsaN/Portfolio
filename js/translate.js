@@ -40,40 +40,7 @@ const DICTIONARY = {
             'en': 'My experience with writing in the digital realm starts in 2011 when having a WordPress blog for your every shower thought was considered a personality trait. Since then I have worked as a social media manager for small startups and big companies, however, coming up with a clever wordplay or dad jokes are my specialty.',
             'ge': 'ჩემი და ციფრული სამყაროს ურთიერთობა 2011 წელს დაიწყო, როცა წვრილმანი ამბების გაზიარების ადგილი ვორდპრესის ბლოგები იყო. მას შემდეგ ბევრგან მიმუშავია სოციალურ მედიაში, როგორც პატარა სტარტაპებისთვის, ასევე - დიდი კომპანიებისთვის, თუმცა, ჩემს კალამს კალამბურების ამბებს არაფერი ურჩევნია.'
         },
-        'methodology': {'en': 'Programming Methodology', 'ge': 'პროგრამირების მეთოდოლოგა', 'small': true},
-        'abstractions': {'en': 'Programming Abstractions', 'ge': 'პროგრამირების აბსტრაქციები', 'small': true},
-        'paradigms': {
-            'en': 'Programming Paradigms (Computer Organization & Systems)',
-            'ge': 'პროგრამირების პარადიგმები / კომპიუტერების წყობა და სისტემები ', 'small': true
-        },
-        'rdbms': {
-            'en': 'Relational Database Management Systems',
-            'ge': 'მონაცემთა ბაზების მართვის რელაციური სისტემები',
-            'small': true
-        },
-        'algo': {'en': 'Algorithms and Data Structures', 'ge': 'მონაცემთა სტრუქტურები და ალგორითმები', 'small': true},
-        'oop': {
-            'en': 'Object Oriented Programming (Software Engineering)',
-            'ge': 'ობიექტზე ორიენტირებული პროგრამირება / პროგრამული უზრუნველყოფის ინჟინერია',
-            'small': true
-        },
-        'coursework': {'en': 'Related Coursework:', 'ge': 'გავლილი კურსები:'},
-        'seclead': {'en': 'Teaching Assistant (Section Leader)', 'ge': 'ლექტორის ასისტენტი (სექციის ლიდერი)'},
-        'seclead_date': {
-            'en': 'March 2017 - July 2017 | October 2017 - present',
-            'ge': 'მარტი 2017 - ივლისი 2017 | ოქტომბერი 2017 - დღემდე',
-            'small': true
-        },
-        'seclead_description': {
-            'small': true,
-            'en': 'Responsible for grading programming homeworks of 8-10 students (functionality, efficiency,' +
-                ' styling and documenting), explaining their mistakes and providing consultations\n' +
-                '\n' +
-                'if necessary.',
-            'ge': 'სექციის ლიდერებს ევალებათ კონსულტაციები  გაუწიონ სტუდენტებს კომპიუტერული მეცნიერებების\n' +
-                'ძირითად კურსებში და შეაფასონ მათ მიერ შესრულებული დავალებები აღნიშნულ კურსებში' +
-                ' ფუნქციონალურობის, ეფექტურობის, სტილის და დოკუმენტაციის მიხედვით.'
-        },
+       
         'phone_number': {'en': 'Phone Number', 'ge': 'საკონტაქტო ნომერი', 'small': true},
         'gifts': {'en': 'Send me cool gadgets at', 'ge': 'ამავსეთ საჩუქრებით: '},
         'skills': {'en': 'Skills', 'ge': 'უნარები'},
