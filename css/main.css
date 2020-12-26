@@ -227,7 +227,7 @@
 }
 
 .emerald > span {
-  background-color: #00BCD4;
+  background-color: #c6b8de;
 }
 
 .carrot > span {
@@ -244,7 +244,7 @@
 }
 
 .midnight > span {
-  background-color: #0097A7;
+  background-color: #661a13;
 }
 
 .pomengrate > span {
@@ -451,11 +451,11 @@
 }
 
 .work_link {
-  color: white;
+  color: #661a13;
 }
 
 .work_link:visited {
-  color: white;
+  color: #661a13;
 }
 
 .skill_decription {
