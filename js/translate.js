@@ -52,6 +52,7 @@ const DICTIONARY = {
         
 
         'cpywrt': {'en': 'Copywriter', 'ge': 'ქოფირაითერი'},
+        'sen_cpywrt': {'en': 'Senior Digital Copywriter', 'ge': 'უფროსი ციფრული ქოფირაითერი'},
         'languages': {'en': 'Languages', 'ge': 'ენები'},
         'lang_ge': {'en': 'Georgian', 'ge': 'ქართული'},
         'lang_en': {'en': 'English', 'ge': 'ინგლისური'},
