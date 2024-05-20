@@ -14,7 +14,6 @@ const DICTIONARY = {
         'oct': {'en': 'October', 'ge': 'ოქტომბერი'},
         'nov': {'en': 'November', 'ge': 'ნოემბერი'},
         'dec': {'en': 'December', 'ge': 'დეკემბერი'},
-        'present': {'en': 'Present', 'ge': "დღემდე"},
         '': {'en': '', 'ge': ''},
         'name': {'en': 'Nutsa Ninua', 'ge': 'ნუცა ნინუა'},
         'dig_market': {'en': 'Social Media Manager, Copywriter ', 'ge': 'სოციალური მედიის მენეჯერი, ქოფირაითერი'},
