@@ -23,7 +23,9 @@ const DICTIONARY = {
         'school': {'en': '21 Public School', 'ge': '21-ე საჯარო სკოლა'},
         'midhigh': {'en': 'Middle/High School', 'ge': 'საშუალო სკოლა'},
         'agruni': {'en': 'Agricultural University Of Georgia', 'ge': 'საქართველოს აგრარული უნივერსიტეტი'},
+        'humboldt': {'en': 'Humboldt University Berlin', 'ge': 'ჰუმბოლდტის უნივერსიტეტი ბერლინში'},
         'degree': {'en': 'Bachelor of Biology', 'ge': 'ბიოლოგიის ბაკალავრი'},
+        'masters_degree': {'en': 'Master in Neuroscience', 'ge': 'ნეირომეცნიერების მაგისტრი'},
         'date': {'en': 'September 2017 - Present', 'ge': 'სექტემბერი 2017 - დღემდე'},
         'work': {'en': 'Work', 'ge': 'სამუშაო გამოცდილება'},
         'about': {'en': 'About', 'ge': 'ჩემ შესახებ'},
@@ -37,8 +39,8 @@ const DICTIONARY = {
         'examples': {'en': 'Exemplary [CTRL+C]s and more magic', 'ge': '[CTRL+C]-ების მაგალითები და სხვა ჯადოქრობები'},
         'about_me': {
             'small': true,
-            'en': 'My experience with writing in the digital realm starts in 2011 when having a WordPress blog for your every shower thought was considered a personality trait. Since then I have worked as a social media manager for small startups and big companies, however, coming up with a clever wordplay or dad jokes are my specialty.',
-            'ge': 'ჩემი და ციფრული სამყაროს ურთიერთობა 2011 წელს დაიწყო, როცა წვრილმანი ამბების გაზიარების ადგილი ვორდპრესის ბლოგები იყო. მას შემდეგ ბევრგან მიმუშავია სოციალურ მედიაში, როგორც პატარა სტარტაპებისთვის, ასევე - დიდი კომპანიებისთვის, თუმცა, ჩემს კალამს კალამბურების ამბებს არაფერი ურჩევნია.'
+            'en': 'My experience with writing in the digital realm starts in 2011 when having a WordPress blog for your every shower thought was considered a personality trait. Since then I have worked as a social media manager for small startups and big companies, later transitioning into copywriting and having my share of fun at advertising agencies. TL; DR coming up with clever wordplay or dad jokes are my specialty.',
+            'ge': 'ჩემი და ციფრული სამყაროს ურთიერთობა 2011 წელს დაიწყო, როცა წვრილმანი ამბების გაზიარების ადგილი ვორდპრესის ბლოგები იყო. მას შემდეგ ბევრგან მიმუშავია სოციალურ მედიაში, როგორც პატარა სტარტაპებისთვის, ასევე - დიდი კომპანიებისთვის. მოგვიანებით ჩემი სპეციალობა ქოფირაითერობის კუთხით დავიწროვდა და სარეკლამო სააგენტოებთანაც ვიმეგობრე, თუმცა, ჩემს კალამს კალამბურების ამბებს არაფერი ურჩევნია.'
         },
        
         'phone_number': {'en': 'Phone Number', 'ge': 'საკონტაქტო ნომერი', 'small': true},
