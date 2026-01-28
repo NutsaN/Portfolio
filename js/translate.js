@@ -14,6 +14,7 @@ const DICTIONARY = {
         'oct': {'en': 'October', 'ge': 'ოქტომბერი'},
         'nov': {'en': 'November', 'ge': 'ნოემბერი'},
         'dec': {'en': 'December', 'ge': 'დეკემბერი'},
+        'present': {'en': 'Present', 'ge': 'დღემდე'},
         '': {'en': '', 'ge': ''},
         'name': {'en': 'Nutsa Ninua', 'ge': 'ნუცა ნინუა'},
         'dig_market': {'en': 'Social Media Manager, Copywriter ', 'ge': 'სოციალური მედიის მენეჯერი, ქოფირაითერი'},
@@ -55,6 +56,7 @@ const DICTIONARY = {
 
         'cpywrt': {'en': 'Copywriter', 'ge': 'ქოფირაითერი'},
         'sen_cpywrt': {'en': 'Senior Digital Copywriter', 'ge': 'უფროსი ციფრული ქოფირაითერი'},
+        'com_manager': {'en': 'Communications Manager', 'ge': 'კომუნიკაციების მენეჯერი'},
         'languages': {'en': 'Languages', 'ge': 'ენები'},
         'lang_ge': {'en': 'Georgian', 'ge': 'ქართული'},
         'lang_en': {'en': 'English', 'ge': 'ინგლისური'},
