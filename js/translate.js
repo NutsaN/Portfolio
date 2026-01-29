@@ -87,7 +87,11 @@ const DICTIONARY = {
         'jour': {'en': 'Journalist', 'ge': 'ჟურნალისტი'},
         'our_express_date': {'en': '2012 September - 2013 June', 'ge': 'სექტემბერი 2012 - ივნისი 2013'},
         'ishare_date': {'en': '2017 January - 2017 February', 'ge': 'იანვარი 2017 - თებერვალი 2017'},
-        'soc_media': {'en': 'Social Media Manager', 'ge': 'სოციალური მედიის მენეჯერი'}
+        'soc_media': {'en': 'Social Media Manager', 'ge': 'სოციალური მედიის მენეჯერი'},
+
+        'works': {'en': 'Works', 'ge': 'სამსახურები'},
+        'freelances': {'en': 'Freelances', 'ge': 'სხვა ნამუშევრები'},
+        'wins': {'en': 'Wins', 'ge': 'მოგებები'}
     }
 ;
 
