@@ -17,7 +17,7 @@ const DICTIONARY = {
         'present': {'en': 'Present', 'ge': 'დღემდე'},
         '': {'en': '', 'ge': ''},
         'name': {'en': 'Nutsa Ninua', 'ge': 'ნუცა ნინუა'},
-        'dig_market': {'en': 'Social Media Manager, Copywriter ', 'ge': 'სოციალური მედიის მენეჯერი, ქოფირაითერი'},
+        'dig_market': {'en': 'Creative Copywriter, Social Media Manager', 'ge': 'კრეატიული ქოფირაითერი, სოციალური მედიის მენეჯერი'},
         'marketing_manager': {'en': 'Marketing Manager', 'ge': 'მარკეტინგის მენეჯერი'},
         'edu': {'en': 'Education', 'ge': 'განათლება'},
         'school': {'en': '21 Public School', 'ge': '21-ე საჯარო სკოლა'},
@@ -55,7 +55,7 @@ const DICTIONARY = {
         
 
         'cpywrt': {'en': 'Copywriter', 'ge': 'ქოფირაითერი'},
-        'sen_cpywrt': {'en': 'Senior Digital Copywriter', 'ge': 'უფროსი ციფრული ქოფირაითერი'},
+        'sen_cpywrt': {'en': 'Senior Copywriter', 'ge': 'უფროსი ქოფირაითერი'},
         'com_manager': {'en': 'Communications Manager', 'ge': 'კომუნიკაციების მენეჯერი'},
         'languages': {'en': 'Languages', 'ge': 'ენები'},
         'lang_ge': {'en': 'Georgian', 'ge': 'ქართული'},
